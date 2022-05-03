@@ -5,6 +5,7 @@
 - [The Genesis Machine - Amy Webb and Andrew Hessel](https://amywebb.io/books)
 - [Hacking Darwin - Jamie Metzl](https://hackingdarwin.com/)
 - [Synthetic Aesthesics - Alexandra Daisy Ginsberg, Jane Calvert, Pablo Schyfter, Alistair Elfick and Drew Endy](https://mitpress.mit.edu/books/synthetic-aesthetics)
+
 ## Reddit
 - https://www.reddit.com/r/SyntheticBiology/
 - https://www.reddit.com/r/genomics/
@@ -16,8 +17,11 @@
 ## Youtube
 - [The Future of Synthetic Biology](https://www.youtube.com/watch?v=vArRuPHD57M)
 - [TED - How Synthetic Biology Can Improve our Health, Food, and Materials | Emily Leproust](https://www.youtube.com/watch?v=bjhvoNlTn60)
+
 ## Blogs
 - [Grow by Ginkgo](https://www.growbyginkgo.com/)
-
+- [Synbiobeta Digests](https://www.builtwithbiology.com/read-biology)
+- [Synthego The Bench](https://www.synthego.com/blog)
+- 
 ## Interesting Articles
 - [A Scalable pipeline for designing and reconfiguring organisms](https://www.pnas.org/doi/10.1073/pnas.1910837117)
