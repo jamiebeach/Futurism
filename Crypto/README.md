@@ -27,3 +27,7 @@
 
 ### Mesh Networks
 - [Helium](https://www.helium.com/)
+
+### Metaverse - Assets and World Building
+- [The Sandbox](https://www.sandbox.game/en/)
+- [Decentraland](https://decentraland.org/)
