@@ -27,6 +27,7 @@
 
 ### Mesh Networks
 - [Helium](https://www.helium.com/)
+- [Althea](https://www.althea.net/)
 - [World Mobile](https://worldmobile.io/)
 - [MeshBox](https://meshbox.network/)
 - [Telemesh](https://telemesh.net/)
