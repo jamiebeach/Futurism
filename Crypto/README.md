@@ -17,6 +17,8 @@ On this page, I'm lumping all web3, cryptocurrency and blockchain use cases and 
 ### Social Networking
 - [DeSo](https://www.deso.org/)
 - [Lens Protocol](https://lens.xyz/)
+- [memo.cash](https://memo.cash/)
+- 
 
 ### Gaming
 - [Blockify Games](https://blockify.games/home)
