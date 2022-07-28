@@ -27,6 +27,11 @@
 
 ### Mesh Networks
 - [Helium](https://www.helium.com/)
+- [World Mobile](https://worldmobile.io/)
+- [MeshBox](https://meshbox.network/)
+- [Telemesh](https://telemesh.net/)
+- [Blockchain for economically sustainable wireless mesh networks](https://www.researchgate.net/publication/333426100_Blockchain_for_economically_sustainable_wireless_mesh_networks)
+- [MeshDApp](https://dsg.ac.upc.edu/meshdapp)
 
 ### Metaverse - Assets and World Building
 - [The Sandbox](https://www.sandbox.game/en/)
