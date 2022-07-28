@@ -1,6 +1,8 @@
 # Cryptocurrency
 
-## Use Cases
+On this page, I'm lumping all web3, cryptocurrency and blockchain use cases and projects into a single list. I am making a distinction between DeFi and non-DeFi use cases however as there is a perception that cryptocurrency\blockchain\web3 solutions are all payment or token related, which is not true. Also note that some protocols or projects such as IPFS are not included in this list because although they may use decentralized mechanisms, they are not blockchain or cryptocurrency based.
+
+## Use Cases - Non-DeFi
 
 ### Decentralized Identity
 - [SIWE - Sign In with Ethereum](https://login.xyz/)
