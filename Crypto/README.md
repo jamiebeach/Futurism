@@ -33,6 +33,7 @@
 - [Telemesh](https://telemesh.net/)
 - [Blockchain for economically sustainable wireless mesh networks](https://www.researchgate.net/publication/333426100_Blockchain_for_economically_sustainable_wireless_mesh_networks)
 - [MeshDApp](https://dsg.ac.upc.edu/meshdapp)
+- [Datanet](https://par.nsf.gov/servlets/purl/10226442)
 
 ### Metaverse - Assets and World Building
 - [The Sandbox](https://www.sandbox.game/en/)
