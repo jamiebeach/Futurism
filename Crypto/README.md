@@ -38,3 +38,17 @@
 ### Metaverse - Assets and World Building
 - [The Sandbox](https://www.sandbox.game/en/)
 - [Decentraland](https://decentraland.org/)
+
+### Supply Chain
+- [atma.io](https://www.atma.io/)
+- [Amazon Track and Trace](https://aws.amazon.com/blockchain/blockchain-for-supply-chain-track-and-trace/)
+- [Blockchain in Supply Chain Management](https://consensys.net/blockchain-use-cases/supply-chain-management/)
+- [Canadian Blockchain Supply Chain Organization](https://www.cbsca.ca/)
+- [DLTLabs](https://www.dltlabs.com/)
+- [TradeLens](https://www.tradelens.com/)
+- [Circulor](https://www.circulor.com/)
+- [Statwig](https://statwig.com/)
+- [OriginTrail](https://origintrail.io/)
+- 
+### Reforestation and Tree Planting
+- [Veritree](https://www.veritree.com/)
